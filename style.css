@@ -2,4 +2,9 @@ header {
     background-color: #d2fffd;
 
     color: #000000;
-}
+    display : flex;
+    justify-content: space-around;
+
+    .cabecalhoo.imagem {
+        wiidth: 20%
+    }
