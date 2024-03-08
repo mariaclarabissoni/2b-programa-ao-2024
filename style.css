@@ -28,5 +28,17 @@
 
 .escola {
     background-image: linear-gradient(#ae8bee, #7a4592);
-    color: rgb(124, 160, 201) 
+    color: rgb(124, 160, 201) ;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.bts-logo-bts-icon-trasparent-free-png.webp{
+    padding:24px 0;
+}
+
+.idol{
+    width: 35%;
 }
