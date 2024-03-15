@@ -1,9 +1,15 @@
-* {
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap')
+*{
     padding: 0;
     margin: 0;
 }
     
-.cabecalho {
+
+  body{
+      font-family: 'poppins';
+  }
+
+   .cabecalho {
     background-color: #b128db;
     color: #cbb2f1;
     display: flex;
@@ -22,11 +28,11 @@
     font-size: 24px;
 }
 
-.escola-image {
+.escola-imagem {
     width: 25%;
 }
 
-.escola {
+.bts {
     background-image: linear-gradient(#ae8bee, #7a4592);
     color: rgb(166, 101, 185) ;
     display:flex;
