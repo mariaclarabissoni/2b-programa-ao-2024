@@ -33,7 +33,7 @@
 }
 
 .bts {
-    background-image: linear-gradient(#d9b0ff, #652883);
+    background-image: linear-gradient(#ae6ee9, #652883);
     color: rgba(220, 130, 243, 0.507) ;
     display:flex;
     justify-content: center;
@@ -47,4 +47,9 @@
 
 .idol{
     width: 35%;
+}
+
+.bts-titulo{
+    text-align: center;
+    padding :50px 0;
 }
